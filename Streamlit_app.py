@@ -9,7 +9,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, r
 # Page Title
 # -------------------------
 
-st.set_page_config(page_title="Academic Risk Prediction", layout="wide")
+st.set_page_config(page_title="Academic risk Prediction", layout="wide")
 
 st.title("📊 Academic Risk Prediction Dashboard")
 
